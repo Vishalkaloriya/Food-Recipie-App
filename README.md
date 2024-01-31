@@ -1,7 +1,11 @@
 # Food-Recipe-App-React-Native
   
-![FOOD_IMAGE](https://github.com/Vishalkaloriya/Food-Recipie-App/assets/76687602/c94629d5-9b8c-462f-8e36-462c98a1814d)
-  
+  ![Food](https://github.com/Vishalkaloriya/Food-Recipie-App/assets/76687602/78951c0d-134e-486f-8372-6c0dfad2a2c2)
+
+
+https://github.com/Vishalkaloriya/Food-Recipie-App/assets/76687602/36096a6d-d017-4aa9-945c-955747713f35
+
+
 
 ## Get Started
 
