@@ -1,9 +1,6 @@
 # Food-Recipe-App-React-Native
-
-![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
-
   
-
+![FOOD_IMAGE](https://github.com/Vishalkaloriya/Food-Recipie-App/assets/76687602/c94629d5-9b8c-462f-8e36-462c98a1814d)
   
 
 ## Get Started
